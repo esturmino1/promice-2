@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "00ac4b017aa231929af29317786fa5c0"
+	name: "xTRIACERx#00ac4b01"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7B701D980200A661: 1
+	}
+	started: {
+		7539C31213D86E55: 1722471386983L
+		0000000000000001: 1722471386983L
+		7B701D980200A661: 1722471386983L
+		1DD302BB650057E3: 1722471386983L
+	}
+	completed: {
+		7B701D980200A661: 1722471386983L
+		1DD302BB650057E3: 1722471386983L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
